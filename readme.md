@@ -1,11 +1,15 @@
-# Page title: Calendar Photos 2024
+# Calendar Photos 2024
 
 ## Page description
 
 Photos of Poznań to my 2024 calendar
 
+## Running the page
+
+Just click this [link](https://piotr-woz.github.io/Calendar-Photos-2024/)
+
 ## Technologies
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Bootstrap
