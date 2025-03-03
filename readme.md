@@ -12,4 +12,4 @@ Just click this [link](https://piotr-woz.github.io/Calendar-Photos-2024/)
 
 * HTML5
 * CSS3
-* Bootstrap
+* Bootstrap 5.3.2
